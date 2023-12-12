@@ -1,0 +1,299 @@
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            display: grid;
+            grid-template-rows: auto 1fr;
+            color: #8583BD;
+            background-color:rgba(168, 135, 37, 0.247);
+        }
+
+        img {
+            margin-top: 1em;
+            width: 60px;
+            height: auto;
+
+        }
+        
+
+        /* Crear grids*/
+        header {
+            display: grid;
+            grid-template-rows: auto 1fr;
+        }
+
+        #contenedor {
+            display: grid;
+            grid-template-columns: 1fr 3fr;
+            height: 550px;
+            gap: 0px;
+        }
+
+        main {
+            display: grid;
+            grid-template-rows: auto auto 3fr;
+            gap: 0px;
+        }
+
+        /* Elementos ordenados de forma horizontal dentro de los grid*/
+
+        .Menu {
+            border-bottom: 1px solid #000;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 0;
+            background-color: #161469;
+            color: #fff;
+            
+        }
+        .Menu h3{
+            margin: 0.6em;
+        }
+       #menuDer {
+            border-bottom: 1px solid #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: large;
+            background-color: #8583BD;
+            color: #fff;
+            
+        }
+
+        #Opciones {
+            display: flex;
+            border-bottom: 1px solid #000;
+        }
+
+        /* Dibujar bordes*/
+
+        aside {
+            border-right: 1px solid #000;
+            background-color: #fff;
+            height: 140%;
+        }
+
+        aside>section {
+            border-bottom: 1px solid #000;
+            margin: 0;
+            padding: 8px;
+            font-size: 18px;
+            background-color: #BA8F0B;
+            color: #fff;
+        }
+
+        #bases>article {
+            border-bottom: 1px dashed rgb(161, 161, 161);
+            text-align: center;
+            padding: 1em;
+            transition: background-color 0.3s ease;
+        }
+
+        /* Cambiar apariencia del cursor sobre los elementos iteractivos*/
+        header .men {
+            cursor: pointer;
+            transition: color 0.3s ease;
+        }
+
+        #menuDer>div {
+            margin: 0 1em;
+            cursor: pointer;
+            transition: color 0.3s ease;
+        }
+
+        /* colores de fondo, fuente, padding,....*/
+
+        .Tem {
+            background-color: #fff;
+            color: #161469;
+            text-align: center;
+            
+        }
+        .Tem>h3{
+            margin: 4px;
+        }
+
+        article>section {
+            background-color: #fff;
+            padding: 1em;
+            border-radius: 0.5em;
+        }
+
+        details {
+            text-align: justify;
+            margin: 1em;
+            color: #8583BD;
+        }
+
+        main>section {
+            margin: 1em;
+            padding: 1em;
+            background-color: #fff;
+            border-radius: 1em;
+            height: 135%;
+        }
+
+        .op {
+            margin: 0 2em;
+
+        }
+
+        .op h4 {
+            margin: 4px 0;
+        }
+
+        #modal {
+            width: 600px;
+            text-align: center;
+            border-radius: 1em;
+        }
+
+        #modal::backdrop {
+            background-color: rgba(0, 0, 0, 0.55);
+        }
+
+        /* Posicion del elemento refresh, permitiendo ajustar su posición 
+             en relación con su posición original sin sacarlo del flujo normal del documento */
+        .elige {
+            position: relative;
+        }
+
+        .elige #refreshSql {
+            position: absolute;
+            top: 15px;
+            right: 20px;
+            font-size: 19px;
+            
+        }
+
+        .elige #refreshPostgres {
+            position: absolute;
+            top: 15px;
+            right: 20px;
+            font-size: 19px;
+        }
+
+        .elige #refreshMongo {
+            position: absolute;
+            top: 15px;
+            right: 20px;
+            font-size: 19px;
+            
+        }
+        .elige:hover{
+            background-color:rgb(186, 143, 11);
+            color:#fff;
+        }
+
+        /* hovers */
+
+        header .men:hover {
+            color: rgb(186, 143, 11);
+        }
+
+        #bases>article:hover .ocultaSs {
+            color: #fff;
+            display: block;
+        }
+        #bases>article:hover .ocultaPg {
+            color: #fff;
+            display: block;
+            
+        }
+        #bases>article:hover .ocultaMn {
+            color: #fff;
+            display: block;
+            
+        }
+
+        #menuDer p:hover {
+            background-color: rgb(186, 143, 11);
+            
+        }
+
+        .op:hover {
+            color: rgb(183, 143, 11);
+        }
+
+        #refreshMongo:hover {
+            color: #161469
+        }
+
+        #refreshSql:hover {
+            color: #161469
+        }
+
+        #refreshPostgres:hover {
+            color: #161469
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        span {
+            cursor: pointer;
+        }
+        /* Tablas */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-bottom: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid #000; 
+    background-color: #fff;
+    font-size: 12px;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+
+        /* Estilos para la lista */
+        ul {
+            list-style: none;
+            border-collapse: collapse;
+            width: 80%;
+            margin-bottom: 10px;
+            text-align: left ;
+            color: #161469;
+
+        }
+
+        /* Estilos para cada elemento de la lista */
+        li {
+            margin-bottom: 10px;            
+            padding: 10px;            
+        }
+
+        /* Estilos para los detalles de cada elemento */
+        ul ul {
+            color: #be4444;
+            list-style: none;
+            padding-left: 2em;
+            margin-top: 5px;
+        }
+
+        li li {
+            color: blue;
+            border: none;
+            padding: 5px;
+            background-color: #f9f9f9;
+        }
+        /* ocultar secciones */
+        .ocultaSs, .ocultaPg,  .ocultaMn {
+            display: none;
+        }
+        .cuadroQuery{
+            padding: 0 1em;
+            cursor: pointer;
+        }
+        .cuadroQuery:hover{
+         background-color: rgb(255, 232, 164);   
+         color: #fff;
+        }
+        
+        

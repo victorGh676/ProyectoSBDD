@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conexión Mongo</title>
+  <script type="module" src="mon.js"></script>
+</head>
+<body>
+    
+  <ul id="prueba"></ul>
+
+  <dialog id="modal" open>
+    <form method="dialog">
+        <h1>Crear Conexion</h1>
+        <p>Inserte la ip: <input type="text" id="ip"></p>
+        <p>Inserte el puerto: <input type="text" id="puerto"></p>
+        <p>Inserte el Usuario: <input type="text" id="usuario"></p>
+        <p>Inserte la Contraseña: <input type="password" id="contraseña"></p>
+        <button id="cancelar">Cancelar</button>
+        <button type="submit" id="crear">Crear</button>
+    </form>
+  </dialog>
+</body>
+</html>

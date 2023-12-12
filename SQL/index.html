@@ -1,0 +1,48 @@
+<!-- HTML -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="../app.js"></script>
+  <title>Iniciar Sesión en SQL Server</title>
+</head>
+
+<body>
+  <h1>Iniciar Sesión en SQL Server</h1>
+  <form id="loginForm">
+    <label>Servidor:</label>
+    <input type="text" id="host" required>
+
+    <label>Puerto:</label>
+    <input type="text" id="port" required>
+
+    <label>Usuario:</label>
+    <input type="text" id="user" required>
+
+    <label>Contraseña:</label>
+    <input type="password" id="password" required>
+
+    <br>
+
+    <ul id="databaseList" ondblclick="showTables()">
+      <!-- Lista de bases de datos se agregará aquí dinámicamente -->
+    </ul>
+
+    <button type="button" onclick="connectToInstance()">Iniciar Sesión</button>
+    <button type="button" onclick="closeInstance()">Cerrar Sesión</button>
+
+    <div>
+      <h2>Tablas en la Base de Datos:</h2>
+      <ul id="databaseTableList"></ul>
+    </div>
+  </form>
+</body>
+
+</html>
+
+
+</html>
+

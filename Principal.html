@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prueba de conexion</title>
+    <script type="module" src="Principal.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+    <header>
+        <div class="Tem">
+            <h3>Gestor de base de datos</h3>
+        </div>
+        <div class="Menu">
+            <a>
+                <div class="men">
+                    <h3><i id="iconos" class="fa-solid fa-ticket"></i> Archivo</h3>
+                </div>
+            </a>
+            <div class="men">
+                <h3><i id="iconos" class="fa-solid fa-gear"></i> Herramientas</h3>
+            </div>
+            <div class="men">
+                <h3><i id="iconos" class="fa-solid fa-users"></i>Ayuda</h3>
+            </div>
+        </div>
+    </header>
+    <div id="contenedor">
+
+        <aside>
+            <section>Explorador de Objetos</section>
+            <div id="bases">
+                <article class="elige">
+                    <img src="Imagenes/sql-server.png" width="45" class="ocultaSs" style=" margin: auto;">
+                    <i class="fa-solid fa-rotate-right ocultaSs" id="refreshSql" ></i>
+                    <h4>SQL Server </h4>
+                    <section id="sqlServer" class="ocultaSs">
+                    </section>
+                </article>
+                <article class="elige">
+                    <img src="Imagenes/postgress.png" width="60" class="ocultaPg" style=" margin: auto;">
+                    <i class="fa-solid fa-rotate-right ocultaPg" id="refreshSql" ></i>
+                    <h4>Postgress</h4>
+                    <section id="postgress" class="ocultaPg">                        
+                    </section>
+                </article>
+                <article class="elige">
+                    <img src="Imagenes/mongo.png" width="70" class="ocultaMn"  style=" margin: auto;" >
+                    <i class="fa-solid fa-rotate-right ocultaMn" id="refreshSql" ></i>
+                    <h4>MongoBD</h4>
+                    <section id="mongo" class="ocultaMn">
+                    </section>
+                </article>
+            </div>
+        </aside>
+        <main>
+            <div id="menuDer">
+                
+                <div style="display: none;" id="selectDiv">
+                    <select id="basesSelect">
+                    </select>
+                </div>
+                <div class="op" id="ejecutar" style="display: none;">
+                    <h4><i class="fa-solid fa-play"></i> Ejecutar</h4>
+                </div>
+                <div class="op" id="query">
+                    <h4><i class="fa-solid fa-file-circle-plus"></i></i> New Query</h4>
+                </div>
+                <div class="op">
+                    <h4><i class="fa-solid fa-floppy-disk"></i> Guardar</h4>
+                </div>
+            </div>
+            <div id="Opciones">                
+            </div>
+            <section contenteditable="true" style="display: none;" id="consulta">
+
+            </section>
+            <section id="resultado">
+
+            </section>
+            <p ></p>
+        </main>
+    </div>
+</body>
+<dialog id="modal">
+    <form method="dialog">
+        <h1>Crear Conexion</h1>
+        <p>Inserte la ip: <input type="text" id="ip"></p>
+        <p>Inserte el puerto: <input type="text" id="puerto"></p>
+        <p>Inserte el Usuario: <input type="text" id="usuario"></p>
+        <p>Inserte la Contraseña: <input type="password" id="contraseña"></p>
+        <button id="cancelar">Cancelar</button>
+        <button type="submit" id="crear">Crear</button>
+    </form>
+</dialog>
+
+</html>
