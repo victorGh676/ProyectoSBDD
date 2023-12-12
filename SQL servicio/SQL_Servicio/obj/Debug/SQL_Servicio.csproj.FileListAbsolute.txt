@@ -1,0 +1,120 @@
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\SQL_Servicio.dll.config
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\SQL_Servicio.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\SQL_Servicio.pdb
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\csc.exe
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\csc.exe.config
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\csc.rsp
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\csi.exe
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\csi.exe.config
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\csi.rsp
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.AppContext.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Console.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.IO.Compression.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Net.Http.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.ValueTuple.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\vbc.exe
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\vbc.exe.config
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\vbc.rsp
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\VBCSCompiler.exe
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\obj\Debug\SQL_Servicio.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\obj\Debug\SQL_Servicio.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\obj\Debug\SQL_Servicio.csproj.CopyComplete
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\obj\Debug\SQL_Servicio.dll
+C:\Users\victo\OneDrive\Escritorio\SQL\SQL_Servicio\obj\Debug\SQL_Servicio.pdb
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\SQL_Servicio.dll.config
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\SQL_Servicio.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\SQL_Servicio.pdb
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\csc.exe
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\csc.exe.config
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\csc.rsp
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\csi.exe
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\csi.exe.config
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\csi.rsp
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.AppContext.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Console.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.IO.Compression.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Net.Http.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.ValueTuple.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\vbc.exe
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\vbc.exe.config
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\vbc.rsp
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\VBCSCompiler.exe
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\Newtonsoft.Json.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\Newtonsoft.Json.xml
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\obj\Debug\SQL_Servicio.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\obj\Debug\SQL_Servicio.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\obj\Debug\SQL_Servicio.csproj.CopyComplete
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\obj\Debug\SQL_Servicio.dll
+C:\Users\victo\Desktop\SQL servicio\SQL_Servicio\obj\Debug\SQL_Servicio.pdb
